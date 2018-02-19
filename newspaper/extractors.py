@@ -14,7 +14,6 @@ __copyright__ = 'Copyright 2014, Lucas Ou-Yang'
 import copy
 import logging
 import re
-import re
 from collections import defaultdict
 
 from dateutil.parser import parse as date_parser
